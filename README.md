@@ -10,4 +10,6 @@ Institute for Intelligent Computing, Alibaba Group
 <a href='https://humanaigc.github.io/emote-portrait-alive/'><img src='https://img.shields.io/badge/Project-Page-Green'></a>
 <a href='https://arxiv.org/pdf/'><img src='https://img.shields.io/badge/Paper-Arxiv-red'></a>
 
+<video src="./content/main_page.mp4" controls="controls" width="80%"></video>
+
 
