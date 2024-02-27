@@ -1,5 +1,4 @@
 # EMO
-
 Emote Portrait Alive: Generating Expressive Portrait Videos with Audio2Video Diffusion Model under Weak Conditions
 
 Linrui Tian, Qi Wang, Bang Zhang, Liefeng Bo,
