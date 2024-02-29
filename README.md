@@ -10,6 +10,12 @@ Institute for Intelligent Computing, Alibaba Group
 [![YouTube](https://badges.aleen42.com/src/youtube.svg)](https://youtu.be/VlJ71kzcn9Y)
 
 ![pipeline](content/intro.png)
+
+Demo video:
+
+https://github.com/HumanAIGC/EMO/assets/754906/717be190-f59c-4c02-8b3e-7483518773bd
+
+
  
 ## Citation
 ```
