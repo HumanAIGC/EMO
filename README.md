@@ -9,7 +9,7 @@ Institute for Intelligent Computing, Alibaba Group
 <a href='https://arxiv.org/abs/2402.17485'><img src='https://img.shields.io/badge/Paper-Arxiv-red'></a>
 [![YouTube](https://badges.aleen42.com/src/youtube.svg)](https://youtu.be/VlJ71kzcn9Y)
 
-![pipeline](content/intro.png)
+
  
 ## Citation
 ```
